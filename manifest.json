@@ -1,6 +1,14 @@
 {
 	"artifacts": [
 		{
+			"name": "devtools.jar",
+			"plugins": ["net.runelite.client.plugins.devtools.DevToolsPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/devtools.jar",
+			"hash": "47513e9254c233a7d2cd5f5355d5c96c50a6d62757913b7f5f6e413c336d70df",
+			"description": "Developer tools plugin to show info inside the game."
+		},
+		{
 			"name": "blackjack.jar",
 			"plugins": ["net.runelite.client.plugins.blackjack.BlackjackPlugin"],
 			"version": "1.0",
