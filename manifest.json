@@ -5,7 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.devtoolsb.DevToolsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/devtools.jar",
-			"hash": "7a2e32178363baa3ddd594120d1e3b593ee9a025afc0e07631cc178bfcb2d237",
+			"hash": "9960a7e955a2bc9ff4abfd1e61db03f6192a53688ef959451d315701ed105f45",
 			"description": "Developer tools plugin to show info inside the game."
 		},
 		{
