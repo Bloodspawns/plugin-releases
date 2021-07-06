@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "neverlog.jar",
-			"plugins": ["net.runelite.client.plugins.neverlog.NeverLog"],
-			"version": "1.0",
+			"plugins": ["net.runelite.client.plugins.neverlog.Neverlog"],
+			"version": "1.1",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/neverlog.jar",
-			"hash": "9344dc886767d2f02dd4c5cf86d67d31080b239880eb501e538a719106a9903b",
-			"description": "Sends a backspace key press to the client once every while so you will never log out."
+			"hash": "888b9c217c52f91de707f2235dfbc76490212ae7776ede9144ebe803ce49e02b",
+			"description": "Note: fakes input. Sends a backspace or space key press to the client once every while so you will never log out."
 		},
 		{
 			"name": "servervariance.jar",
