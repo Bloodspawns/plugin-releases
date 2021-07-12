@@ -1,14 +1,6 @@
 {
 	"artifacts": [
 		{
-			"name": "xpdrops.jar",
-			"plugins": ["net.runelite.client.plugins.xpdropsb.CustomizableXpDropsPlugin"],
-			"version": "1.0",
-			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/xpdrops.jar",
-			"hash": "96814a41f59a5d03851a5064ede1dea3301f171363d89abd7365756065449a37",
-			"description": "Customizable xp drops also able to group fake xp drops with normal xp drops."
-		},
-		{
 			"name": "devtools.jar",
 			"plugins": ["net.runelite.client.plugins.devtoolsb.DevToolsPlugin"],
 			"version": "1.0",
