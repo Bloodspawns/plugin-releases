@@ -9,6 +9,14 @@
 			"description": "Developer tools plugin to show info inside the game."
 		},
 		{
+			"name": "menuentryswapper.jar",
+			"plugins": ["net.runelite.client.plugins.zcustomswapper.zMenuEntryPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/menuentryswapper.jar",
+			"hash": "73e9765c5a836c37b5e9bc164416acfeb9aa16661d9f9a83360601704955314c",
+			"description": "Set your own entry swaps and/or removal of entries."
+		},
+		{
 			"name": "blackjack.jar",
 			"plugins": ["net.runelite.client.plugins.blackjack.BlackjackPlugin"],
 			"version": "1.0",
