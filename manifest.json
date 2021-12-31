@@ -51,9 +51,9 @@
 		{
 			"name": "blackjack.jar",
 			"plugins": ["net.runelite.client.plugins.blackjack.BlackjackPlugin"],
-			"version": "1.0",
+			"version": "1.1",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/blackjack.jar",
-			"hash": "e2540c8edc72aff8dde26b7c5d747f82ebf9bae13b35af18241f7cf1d6f47ed9",
+			"hash": "920fc6ed9ddcde9ff798c3a9315e011e9725a2595cc94bd0822b2ee01e256076",
 			"description": "Automatic menu swaps for Menaphites in the desert. This plugin will only work if BL is up-to-date."
 		}
 	]
