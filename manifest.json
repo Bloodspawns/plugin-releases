@@ -9,6 +9,14 @@
 			"description": "Developer tools plugin to show info inside the game."
 		},
 		{
+			"name": "socketping.jar",
+			"plugins": ["net.runelite.client.plugins.socketping.SocketPing"],
+			"version": "1.0",
+			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/socketping.jar",
+			"hash": "7a11cd4770150c681e571a06173b7b03cc1da1917f55035a3371ab6707fb1e82",
+			"description": "Ping tiles, npcs, objects and players in game to other people in the socket."
+		},
+		{
 			"name": "menuentryswapper.jar",
 			"plugins": ["net.runelite.client.plugins.zcustomswapper.zMenuEntryPlugin"],
 			"version": "1.0",
