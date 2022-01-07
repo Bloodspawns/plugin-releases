@@ -69,7 +69,7 @@
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
-			"hash": "5ed40eed6e54a784f5667bf5aaa74c3916bff654ab6d88e5ad02bf5cc98d350a",
+			"hash": "526a74aba2e25d9c542544024cc5a2f20385bed042ab30c01dd17e73c0a68794",
 			"description": "Tob additions made by losing ticks fixed by me."
 		}
 	]
