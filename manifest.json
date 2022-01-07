@@ -63,6 +63,14 @@
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/blackjack.jar",
 			"hash": "920fc6ed9ddcde9ff798c3a9315e011e9725a2595cc94bd0822b2ee01e256076",
 			"description": "Automatic menu swaps for Menaphites in the desert. This plugin will only work if BL is up-to-date."
+		},
+		{
+			"name": "tobadditions.jar",
+			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
+			"hash": "5ed40eed6e54a784f5667bf5aaa74c3916bff654ab6d88e5ad02bf5cc98d350a",
+			"description": "Tob additions made by losing ticks fixed by me."
 		}
 	]
 }
