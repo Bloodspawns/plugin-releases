@@ -57,6 +57,14 @@
 			"description": "Tob additions made by losing ticks fixed by me."
 		},
 		{
+			"name": "demonicgorilla.jar",
+			"plugins": ["net.runelite.client.plugins.demonicgorilla.DemonicGorillaPlugin"],
+			"version": "1.0",
+			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/demonicgorilla.jar",
+			"hash": "66925ee4d0932448b6da3cff5fa0e6adbba53e8174a09835d65d9ef02a537f24",
+			"description": "Demonic Gorilla Plugin."
+		},
+		{
 			"name": "socketplugins.jar",
 			"plugins": ["net.runelite.client.plugins.socket.chat.sChatPlugin",
 					"net.runelite.client.plugins.socket.deathindicators.DeathIndicatorsPlugin",
