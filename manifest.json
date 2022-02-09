@@ -5,7 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.devtoolsb.DevToolsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/devtools.jar",
-			"hash": "7c2d6fa5ba3f5fd9761bfdcbb3ab0a661dcc21062b14d65803d7ed1b19a2ee1c",
+			"hash": "3414120c37f5cb031b7dc02e288e23262e354faaebcd82e0055812121f5b279c",
 			"description": "Developer tools plugin to show info inside the game."
 		},
 		{
@@ -14,7 +14,7 @@
 			"version": "1.2",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/neverlog.jar",
 			"hash": "90027b859cfa732ba9eb69108cc8004f0f70c719d5ad31ef4f999ca91f1df9f6",
-			"description": "Note: fakes input. Sends a backspace or space key press to the client once every while so you will never log out."
+			"description": "Note: fakes input. Sends a backspace press to the client once every while so you will never log out."
 		},
 		{
 			"name": "servervariance.jar",
@@ -29,7 +29,7 @@
 			"plugins": ["net.runelite.client.plugins.specbar.SpecBarPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/specbar.jar",
-			"hash": "100c44d97b869ac353d12a6bc3f15e45271b8c3bb2ab0333c5e1b5b0e9ebb924",
+			"hash": "776c15131f346145c63aedbd63bdabc1d9c5794ef3e43603293cdb638e57ad9f",
 			"description": "Spec bar for all weapons under the weapons tab."
 		},
 		{
@@ -53,7 +53,7 @@
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
-			"hash": "8b4682bedd8f6f2689c44f8dd70761037c8bcbf1d6ce8516733adfa8bd948fb4",
+			"hash": "47f267c4f743e34410f6f1f41f784794d02ea3c4ceee0e34f615fdae2873a98b",
 			"description": "Tob additions made by losing ticks fixed by me."
 		},
 		{
@@ -83,7 +83,7 @@
 					],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/socketplugins.jar",
-			"hash": "36fa81f1ea36d86493114b8ff924abdf6766813d8ee2c3279090c069de82f09c",
+			"hash": "c51ad2e42c8ea51ee705206d079301ae2d571798de3905b0d98cc78c62e38b45",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
 		}
 	]
