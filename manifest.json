@@ -50,7 +50,7 @@
 		},
 		{
 			"name": "tobadditions.jar",
-			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
+			"plugins": ["net.runelite.client.plugins.tob.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
 			"hash": "2cae6717c7ab461dd0c6fae1e90363890fceb1e376adf54ac031cb1949b2bacf",
