@@ -53,8 +53,8 @@
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
-			"hash": "47f267c4f743e34410f6f1f41f784794d02ea3c4ceee0e34f615fdae2873a98b",
-			"description": "Tob additions made by losing ticks fixed by me."
+			"hash": "2cae6717c7ab461dd0c6fae1e90363890fceb1e376adf54ac031cb1949b2bacf",
+			"description": "Tob additions made by losing ticks and damen."
 		},
 		{
 			"name": "demonicgorilla.jar",
