@@ -53,7 +53,7 @@
 			"plugins": ["net.runelite.client.plugins.tob.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
-			"hash": "2cae6717c7ab461dd0c6fae1e90363890fceb1e376adf54ac031cb1949b2bacf",
+			"hash": "77f07f633505106c49fbd766367130baee0df2284fa7c20745a3b1c82060ebe7",
 			"description": "Tob additions made by losing ticks and damen."
 		},
 		{
