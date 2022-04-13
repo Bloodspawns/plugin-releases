@@ -5,7 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.devtoolsb.DevToolsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/devtools.jar",
-			"hash": "3414120c37f5cb031b7dc02e288e23262e354faaebcd82e0055812121f5b279c",
+			"hash": "09319ce330fff04c70efe70eb101d3f8f463bb89ff82a36b3130f30919a9f4cd",
 			"description": "Developer tools plugin to show info inside the game."
 		},
 		{
@@ -53,7 +53,7 @@
 			"plugins": ["net.runelite.client.plugins.tob.TobAdditionsPlugin"],
 			"version": "1.0",
 			"path": "https://github.com/Bloodspawns/plugin-releases/raw/main/tobadditions.jar",
-			"hash": "77f07f633505106c49fbd766367130baee0df2284fa7c20745a3b1c82060ebe7",
+			"hash": "d1f3fe8dc8136b10d7795c6f06865161dc2afc6b5523ca396403907ab5aa3b30",
 			"description": "Tob additions made by losing ticks and damen."
 		},
 		{
